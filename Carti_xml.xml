@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<carti>
+   	<carte>
+        	<nume>Programare Web in bash si Perl</nume>
+        	<autor>Sabin Buraga</autor>
+		<autor>Victor Tarhon-Onu</autor>
+		<autor>Stefan Tanasa</autor>
+	</carte>
+	<carte>
+		<nume>Programare C si C++ pentru Linux</nume>
+		<autor>Dragos Acostachioaie</autor>
+	</carte>
+</carti>

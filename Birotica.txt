@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<optionale>
+<optional id="C003">
+<nume>Programarea Java </nume>
+<profesor>Petic Mircea</profesor>
+<an>3</an>
+<studenti min="15" max="60"/>
+<recomandari>
+<curs>Birotica</curs>
+<curs>Grafica</curs>
+</recomandari>
+</optional>
+</optionale>
